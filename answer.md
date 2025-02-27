@@ -14,11 +14,13 @@
 
 <br/>
 ![image](https://github.com/user-attachments/assets/e1de09ba-af25-4f09-aaae-4682ec23b0a0)
+
 **Get this page solve this riddle to complete the URL**
 
 Riddle and - England = Hello, Spain = hola, France = bonjour, Russia = privet, Italy = Ciao, India = namaste so the final url will be ```https://messy447.netlify.app/personal/assets/css/supp/hello/hola/bonjour/privet/ciao/namaste```
 
 <br/>
 ![image](https://github.com/user-attachments/assets/3bd396f5-2826-4710-8f17-a92427253253)
+
 **Put the URL drag and get the answer**
 
