@@ -1,2 +1,2 @@
-#Question 1
+#Question1
 Lets see how good is your vision and knowledge. (Medium)
